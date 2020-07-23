@@ -1,3 +1,7 @@
+body {
+    background-image: url(../../assets/images/notebook.jpg);
+}
+
 .button-style {
     text-align: center;
 }
@@ -8,7 +12,7 @@
 
 .header-brand-title {
     font-family: 'Julius Sans One', sans-serif; /* google font-family call for brand title */
-    background-color: rgb(129,154,212);
+    background-color: tan;
     margin: auto;
     color: white;
 }
@@ -40,7 +44,7 @@ h3 {
     border-radius: 5px;
     text-align: center;
     font-family: 'Mukta', sans-serif;
-    background-color: rgb(253,255,74);
+    background-color: gray;
 }
 
 button {
